@@ -21,7 +21,7 @@ The Job Portal project allows users to:
 ## Getting Started
 To get started with the Job Portal project, follow these steps:
 
-### Clone the repository: git clone https://github.com/your-username/JobPortal.git
+### Clone the repository: git clone https://github.com/Er-VinayKumar639/Job-Portal-Project
 ### Install the dependencies:
  npm install
 ### Set up the environment variables by creating a .env file and adding the necessary configurations.
